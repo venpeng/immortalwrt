@@ -1379,7 +1379,7 @@ ar71xx_board_detect() {
 	*"TL-WR841N/ND v7")
 		name="tl-wr841n-v7"
 		;;
-	*"TL-WR841N/ND v8")
+	*"PISEN WPR003N")
 		name="tl-wr841n-v8"
 		;;
 	*"TL-WR841N/ND v9")
